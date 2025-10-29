@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Methane Matters: Clean Earth 🌍](https://atharvaj1234.github.io/Methane-Matters-Clean-Earth/)
+[Methane Matters: Clean Earth 🌍](https://atharva9167j.github.io/Methane-Matters-Clean-Earth/)
 
 ## Tech Stack
 
